@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/yash/ros2_ws/install/zed_components/include/**",
+        "/home/yash/ros2_ws/install/zed_interfaces/include/**",
+        "/home/yash/ros2_ws/install/septentrio_gnss_driver/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/yash/ros2_ws/src/septentrio_gnss_driver/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
