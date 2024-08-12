@@ -7,14 +7,13 @@
     <visual>
       <origin rpy="0 -0 1.5707" xyz="0 0.35 0"/>
       <geometry>
-        <mesh filename="file:///home/alan/ar_ws/src/ar_sim/meshes/igvc/igvc_bot.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/abhiyaan-nuc/ar_ws/src/ar_sim/meshes/igvc/igvc_bot.dae" scale="0.001 0.001 0.001"/>
       </geometry>
     </visual>
-
     <collision>
       <origin rpy="0 -0 1.5707" xyz="0 0.35 0"/>
       <geometry>
-        <mesh filename="file:///home/alan/ar_ws/src/ar_sim/meshes/igvc/igvc_bot.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/abhiyaan-nuc/ar_ws/src/ar_sim/meshes/igvc/igvc_bot.dae" scale="0.001 0.001 0.001"/>
       </geometry>   
     </collision>
 
@@ -49,14 +48,14 @@
     <visual>
       <origin rpy="0 0 1.5707" xyz="-0.015 -0.005 0"/>
       <geometry>
-        <mesh filename="file:///home/alan/ar_ws/src/ar_sim/meshes/igvc/zed2i.dae" scale="1 1 1"/>
+        <mesh filename="file:///home/abhiyaan-nuc/ar_ws/src/ar_sim/meshes/igvc/zed2i.dae" scale="1 1 1"/>
       </geometry>
     </visual>  
 
     <collision>
       <origin rpy="0 0 1.5707" xyz="-0.015 -0.005 0"/>
       <geometry>
-        <mesh filename="file:///home/alan/ar_ws/src/ar_sim/meshes/igvc/zed2i.dae"/>
+        <mesh filename="file:///home/abhiyaan-nuc/ar_ws/src/ar_sim/meshes/igvc/zed2i.dae"/>
       </geometry>
     </collision>
       
@@ -232,7 +231,7 @@
   <link name="wheel1">
     <visual>
       <geometry>
-        <mesh filename="file:///home/alan/ar_ws/src/ar_sim/meshes/igvc/igvc_wheel.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/abhiyaan-nuc/ar_ws/src/ar_sim/meshes/igvc/igvc_wheel.dae" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy ="0 0 0" xyz="0 0 0"/>
     </visual>
@@ -253,7 +252,7 @@
   <link name="wheel2">
     <visual>
       <geometry>
-        <mesh filename="file:///home/alan/ar_ws/src/ar_sim/meshes/igvc/igvc_wheel.dae" scale="0.001 0.001 0.001"/>
+        <mesh filename="file:///home/abhiyaan-nuc/ar_ws/src/ar_sim/meshes/igvc/igvc_wheel.dae" scale="0.001 0.001 0.001"/>
       </geometry>
     <origin rpy ="0 0 0" xyz="0 0 0"/>
     </visual>
